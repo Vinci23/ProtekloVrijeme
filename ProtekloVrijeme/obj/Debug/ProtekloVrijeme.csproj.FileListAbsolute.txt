@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\ProtekloVrijeme\bin\Debug\ProtekloVrijeme.exe.config
+C:\Users\ucenik\source\repos\ProtekloVrijeme\bin\Debug\ProtekloVrijeme.exe
+C:\Users\ucenik\source\repos\ProtekloVrijeme\bin\Debug\ProtekloVrijeme.pdb
+C:\Users\ucenik\source\repos\ProtekloVrijeme\obj\Debug\ProtekloVrijeme.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\ProtekloVrijeme\obj\Debug\ProtekloVrijeme.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\ProtekloVrijeme\obj\Debug\ProtekloVrijeme.Form1.resources
+C:\Users\ucenik\source\repos\ProtekloVrijeme\obj\Debug\ProtekloVrijeme.Properties.Resources.resources
+C:\Users\ucenik\source\repos\ProtekloVrijeme\obj\Debug\ProtekloVrijeme.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\ProtekloVrijeme\obj\Debug\ProtekloVrijeme.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\ProtekloVrijeme\obj\Debug\ProtekloVrijeme.exe
+C:\Users\ucenik\source\repos\ProtekloVrijeme\obj\Debug\ProtekloVrijeme.pdb
